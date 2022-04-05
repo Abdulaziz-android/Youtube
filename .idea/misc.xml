@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/pdp/Youtube/app/src/main/res/drawable/ic_baseline_thumb_up_24.xml" value="0.1155" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/layout-land/activity_main.xml" value="0.1" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/layout-land/fragment_show_video.xml" value="0.1" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/layout/activity_main.xml" value="0.1712962962962963" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/layout/activity_youtube_auth_fullscreen.xml" value="0.1712962962962963" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/layout/fragment_add.xml" value="0.1712962962962963" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/layout/fragment_data_show.xml" value="0.1712962962962963" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/layout/fragment_history.xml" value="0.1712962962962963" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/layout/fragment_home.xml" value="0.1712962962962963" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/layout/fragment_library.xml" value="0.1712962962962963" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/layout/fragment_search_video.xml" value="0.36852589641434264" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/layout/fragment_show_video.xml" value="0.1712962962962963" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/layout/fragment_subscription.xml" value="0.1712962962962963" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/layout/include_web_view.xml" value="0.1712962962962963" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/layout/item_comment.xml" value="0.25" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/layout/item_dialog.xml" value="0.1712962962962963" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/layout/item_history_video.xml" value="0.1712962962962963" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/layout/item_playlist.xml" value="0.1712962962962963" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/layout/item_recent.xml" value="0.1712962962962963" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/layout/item_reply.xml" value="0.1712962962962963" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/layout/item_search_history.xml" value="0.1712962962962963" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/layout/item_tablayout.xml" value="0.1712962962962963" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/layout/item_video.xml" value="0.20416666666666666" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/layout/item_video_with_channel.xml" value="0.1712962962962963" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/layout/item_youtubers.xml" value="0.1712962962962963" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1712962962962963" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/menu/popup_menu.xml" value="0.1712962962962963" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/menu/popup_menu_remove.xml" value="0.1712962962962963" />
+        <entry key="..\:/pdp/Youtube/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1155" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
